@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **DR Plan, HA in GCP**
 
-- 👨‍💻 All of my projects are available at [chamssiddineabd.tech](chamssiddineabd.tech)
+- 👨‍💻 All of my projects are available at [https://chamssiddineabd.tech](chamssiddineabd.tech)
 
 - 💬 Ask me about **CI/CD, SSO, Kubernetes**
 
 - 📫 How to reach me **chamssiddine.abderrahim@etudiant-isi.utm.tn**
 
-- 📄 Documentation on Remote Development Environment [https://remotedevenv.netlify.app](https://remotedevenv.netlify.app)
+- 📄 Documentation on Remote Development Environment [https://rdeplatform.netlify.app](https://remotedevenv.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
